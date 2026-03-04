@@ -26,4 +26,4 @@ O projeto foi construído com foco em velocidade de carregamento e design minima
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [https://github.com/potter1v4/ricardoalemao.git]
